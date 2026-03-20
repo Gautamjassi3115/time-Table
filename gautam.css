@@ -1,0 +1,32 @@
+.div1 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  color: blue;
+  text-transform: capitalize;
+}
+.div2 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  color: black;
+}
+h3 {
+  color: blueviolet;
+  text-transform: capitalize;
+}
+table {
+  border: 1px black solid;
+  text-align: center;
+  border-collapse: collapse;
+  width: 100%;
+  background-color: rgba(250, 229, 203, 0.979);
+  text-transform: capitalize;
+}
+.vertical-text {
+  writing-mode: vertical-lr;
+  font-weight:bold;
+}
+th,td{
+  border: 2px solid black;
+}
